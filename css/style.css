@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    background-image: url("../img/ciel_etoile.jpg");
+}
+
+header img {
+    width: 30vw;
+    height: 40vh;
+}
+
+.title {
+    margin: 15px;
+    font-size: 50px;
+}
+
+.regle {
+    font-size: 35px;
+}
+
+/* DANS LE TABLEAU */
+#bordure {
+    
+    padding: 15px;
+    margin-right: 3vw;
+    margin-left: 3vw;
+    border-radius: 10px;
+    margin-top: 30px;
+    border: 1px solid #FFE81F; ;
+}
+
+.identity {
+    padding-top: 15px;
+    height: auto;
+    text-align: center;
+    border: black 1px solid;
+    color: #FFE81F;
+    background-color: black;
+    padding-bottom:200px;
+    background-image: url("../img/ciel_etoile.jpg");
+}
+
+.identity p {
+    margin-top: 10px;
+}
+
+#nom {
+    margin-bottom: 20px;
+}
+
+#bordure img {
+    width: 40vw;
+    height: 60vh;
+}
+
+#episode {
+    font-size: 20px;
+}
+
+#realisateur {
+    font-size: 20px;
+}
+
+#resume {
+    font-size: 20px;
+    color: white;
+}
+
+#dateDeSortie {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* BUTTON */
+#tableau {
+    margin-top: 50px;
+    border: 1px solid #FFE81F;
+    font-size: 30px;
+    background-color: black;
+    color: #FFE81F;
+    cursor: pointer;
+}
+
+/* FOOTER */
+footer {
+    height: 30px;
+    text-align: center;
+    color: #FFE81F;
+    background-color: black;
+    background-image: url("../img/ciel_etoile.jpg");
+}
+
+
+
+
+
+
+
+
+
